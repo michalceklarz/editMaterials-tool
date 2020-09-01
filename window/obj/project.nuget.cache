@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "EaKcnDoUsox4f/HmzM6gXGfoQgnWJZOKhpTFV/XHVYMqrzPXcDH+Xi7lk4GogDFp14G3wd7wIvvdNK2jGnQNFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\window\\window\\window.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.1\\microsoft.extensions.configuration.2.1.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.1\\microsoft.extensions.configuration.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.1.1\\microsoft.extensions.configuration.binder.2.1.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.1\\microsoft.extensions.dependencyinjection.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.logging\\2.1.1\\microsoft.extensions.logging.2.1.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.options\\2.1.1\\microsoft.extensions.options.2.1.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.1\\microsoft.extensions.primitives.2.1.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xbim.common\\5.1.297\\xbim.common.5.1.297.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xbim.essentials\\5.1.297\\xbim.essentials.5.1.297.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xbim.ifc\\5.1.297\\xbim.ifc.5.1.297.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xbim.ifc2x3\\5.1.297\\xbim.ifc2x3.5.1.297.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xbim.ifc4\\5.1.297\\xbim.ifc4.5.1.297.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xbim.io.memorymodel\\5.1.297\\xbim.io.memorymodel.5.1.297.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\xbim.tessellator\\5.1.297\\xbim.tessellator.5.1.297.nupkg.sha512"
+  ],
+  "logs": []
+}
